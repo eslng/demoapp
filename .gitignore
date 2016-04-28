@@ -1,3 +1,5 @@
 *.beam
 *.log
 *.swp
+.rebar
+deps
