@@ -1,6 +1,6 @@
 @setlocal
 
-@set node_name=erblog
+@set node_name=erlblog
 
 @rem Get the absolute path to the parent directory,
 @rem which is assumed to be the node root.

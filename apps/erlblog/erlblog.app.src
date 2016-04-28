@@ -1,6 +1,6 @@
 {application, erlblog,
  [
-  {description, ""},
+  {description, "something awful"},
   {vsn, "1"},
   {registered, []},
   {applications, [
