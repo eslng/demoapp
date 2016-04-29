@@ -3,3 +3,4 @@
 *.swp
 .rebar
 deps
+ebin*
